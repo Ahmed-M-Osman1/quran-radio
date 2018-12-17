@@ -1,0 +1,94 @@
+<!-- dequraan -->
+<div id="container"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.</div>
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript">
+var s1 = new SWFObject("player.swf","ply","328","20","9","#FFFFFF");
+s1.addParam("allowfullscreen","true");
+s1.addParam("allowscriptaccess","always");
+s1.addParam("flashvars","file=http://62.215.231.118:9998/;stream.nsv&type=mp3&volume=50&autostart=true");
+s1.write("container");
+</script>
+
+<!-- tukquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:8402/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- quraan3 -->
+s1.addParam("flashvars","file=http://62.215.231.118:8000/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- frquraan -->
+s1.addParam("flashvars","file=http://62.215.231.118:9994/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- esquraan -->
+s1.addParam("flashvars","file=http://62.215.231.118:9990/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- porquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9992/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- ruquraan -->
+s1.addParam("flashvars","file=http://62.215.231.118:9988/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- bosquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9986/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- korquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9984/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- chquraan -->
+s1.addParam("flashvars","file=http://62.215.231.118:9982/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- kurquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9980/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- uygquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9978/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- malquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9976/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- tamquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9974/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- telquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9972/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- hiquraan -->
+s1.addParam("flashvars","file=http://62.215.231.118:9970/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- kaquraan -->
+s1.addParam("flashvars","file=http://62.215.231.118:9968/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- grequraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9966/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- viquraan -->
+s1.addParam("flashvars","file=http://62.215.231.118:9964/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- tamaqura -->
+s1.addParam("flashvars","file=http://62.215.231.118:9962/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- banquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9960/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- urdquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9958/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- phquraan -->
+s1.addParam("flashvars","file=http://62.215.231.118:9956/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- sinquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9954/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- albanian -->
+s1.addParam("flashvars","file=http://62.215.231.118:9952/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- hungaria -->
+s1.addParam("flashvars","file=http://62.215.231.118:9950/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- indquran -->
+s1.addParam("flashvars","file=http://62.215.231.118:9948/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- kasquraa -->
+s1.addParam("flashvars","file=http://62.215.231.118:9946/;stream.nsv&type=mp3&volume=50&autostart=true");
+
+<!-- tagalog -->
+s1.addParam("flashvars","file=http://62.215.231.118:9944/;stream.nsv&type=mp3&volume=50&autostart=true");

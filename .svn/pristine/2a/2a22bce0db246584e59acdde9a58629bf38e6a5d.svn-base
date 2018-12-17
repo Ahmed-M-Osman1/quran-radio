@@ -1,0 +1,62 @@
+#quran-radio { margin:0; text-align:center; border:0px solid #cccccc; padding:0; margin-top:5px; margin-bottom:5px; }
+#quran-radio .lang { padding:5px 0 5px 0; margin:5px 0 10px 0; }
+#quran-radio .playericons { padding:5px 0 5px 0; margin:5px 0 0 0; text-align:center; }
+#quran-radio .playericons img { border:none; width:24px; height:24px; padding:0; margin:0 2px 0 2px; }
+
+#quran-radio-widget { margin:0; text-align:center; border:0px solid #cccccc; padding:5px; margin-top:5px; margin-bottom:5px; }
+#quran-radio-widget .lang { padding:5px 0 5px 0; margin:5px 0 10px 0; }
+#quran-radio-widget .playericons { padding:5px 0 5px 0; margin:5px 0 0 0; }
+#quran-radio-widget .playericons img { border:none; width:24px; height:24px; padding:0; margin:0 2px 0 2px; }
+#quran-radio-widget audio{ width:100%; }
+
+.jplayer-contents {  margin:0; padding:0; text-align:center; border: 0px solid #009be3;  background-color: #fff; padding:10px; }
+.jplayer-contents .jplayer-right { float:right; width:49%; margin:0; padding:0; }
+.jplayer-contents .jplayer-left { float:left; width:49%; margin:0; padding:0; }
+.jplayer-full-width { width:100%; margin:0 0 15px 0; }
+.jplayer-full-width .jp-title { font-size:20px; padding: 1px 0 4px 0; }
+
+.widget button { padding: 0 0 !important; }
+
+.jp-controls button { overflow: hidden; text-indent: -9999px; border: none; cursor: pointer; padding: 0 0 !important; }
+.jp-play { width: 40px; height: 40px; padding: 0 0 0 0; margin: 0 0 0 0; }
+.jp-play { padding: 0 0;  background: url("i/blue.jpg") 0 0 no-repeat; }
+.jp-play:focus { background: url("i/blue.jpg") -41px 0 no-repeat; }
+.jp-state-playing .jp-play { background: url("i/blue.jpg") 0 -42px no-repeat; }
+.jp-state-playing .jp-play:focus { background: url("i/blue.jpg") -41px -42px no-repeat; }
+.jp-stop, .jp-previous, .jp-next { width: 28px; height: 28px; margin-top: 6px; }
+.jp-stop { background: url("i/blue.jpg") 0 -83px no-repeat; margin-left: 10px; }
+.jp-stop:focus { background: url("i/blue.jpg") -29px -83px no-repeat; }
+.jp-previous { background: url("i/blue.jpg") 0 -112px no-repeat; }
+.jp-previous:focus { background: url("i/blue.jpg") -29px -112px no-repeat; }
+.jp-next { background: url("i/blue.jpg") 0 -141px no-repeat; }
+.jp-next:focus { background: url("i/blue.jpg") -29px -141px no-repeat; }
+.jp-progress { overflow: hidden; background-color: #ddd; }
+.jp-audio .jp-progress { height: 15px; }
+.jp-seek-bar { background: url("i/blue.jpg") 0 -202px repeat-x; width: 0px; height: 100%; cursor: pointer; }
+.jp-play-bar { background: url("i/blue.jpg") 0 -218px repeat-x; width: 0px; height: 100%; }
+.jp-seeking-bg { background: url("i/blue-seeking.gif"); }
+.jp-state-no-volume .jp-volume-controls { display: none; }
+.jp-volume-controls button { overflow: hidden; text-indent: -9999px; border: none; cursor: pointer; padding: 0 0 !important; }
+.jp-mute, .jp-volume-max { width: 18px; height: 15px; }
+.jp-mute { background: url("i/blue.jpg") 0 -170px no-repeat; }
+.jp-mute:focus { background: url("i/blue.jpg") -19px -170px no-repeat; }
+.jp-state-muted .jp-mute { background: url("i/blue.jpg") -60px -170px no-repeat; }
+.jp-state-muted .jp-mute:focus { background: url("i/blue.jpg") -79px -170px no-repeat; }
+.jp-volume-max { background: url("i/blue.jpg") 0 -186px no-repeat; }
+.jp-volume-max:focus { background: url("i/blue.jpg") -19px -186px no-repeat; }
+.jp-volume-bar {
+  overflow: hidden;
+  background: url("i/blue.jpg") 0 -250px repeat-x;
+  width: 46px;
+  height: 5px;
+  margin:0 auto;
+  margin-top:5px;
+  margin-bottom:10px;
+  cursor: pointer; }
+
+.jp-volume-bar-value {
+  background: url("i/blue.jpg") 0 -256px repeat-x;
+  width: 0px;
+  height: 5px; }
+
+.jp-jplayer audio,.jp-jplayer { width: 0px; height: 0px; }

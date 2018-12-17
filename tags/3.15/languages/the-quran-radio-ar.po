@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Quran Radio\n"
+"POT-Creation-Date: 2017-02-27 16:25+0300\n"
+"PO-Revision-Date: 2017-02-27 16:26+0300\n"
+"Last-Translator: \n"
+"Language-Team: EDC Team <nwahycom@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: radio-admin.php\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: radio-admin.php:25
+msgid "You do not have sufficient permissions to access this page."
+msgstr "لا تملك الصلاحيات للدخول لهذه الصفحة"
+
+#: radio-admin.php:96
+msgid "Quran Radio Setting"
+msgstr "الإعدادات"
+
+#: radio-admin.php:114
+msgid "Select Language"
+msgstr "اختر اللغة"
+
+#: radio-admin.php:123
+msgid "Radio Title"
+msgstr "عنوان الإذاعة"
+
+#: radio-admin.php:125
+msgid "if empty will write language title."
+msgstr "إذا كان الحقل فارغا سيتم كتابة اسم الإذاعة"
+
+#: radio-admin.php:129
+msgid "Player Options:"
+msgstr "إعدادات المشغل"
+
+#: radio-admin.php:130
+msgid "Player Type"
+msgstr "نوع المشغل"
+
+#: radio-admin.php:135 radio-widget.php:138
+msgid "Auto Start"
+msgstr "التشغيل التلقائي"
+
+#: radio-admin.php:139
+msgid "Show Icons:"
+msgstr "إظهار الأيقونات:"
+
+#: radio-admin.php:140 radio-widget.php:145
+msgid "Source Icon"
+msgstr "المصدر"
+
+#: radio-admin.php:141
+msgid "PDF Book Icon"
+msgstr "أيقونة الكتاب"
+
+#: radio-admin.php:142 radio-widget.php:159
+msgid "Podcast Icon"
+msgstr "البودكاست"
+
+#: radio-admin.php:143 radio-widget.php:166
+msgid "Download Icon"
+msgstr "التحميل"
+
+#: radio-admin.php:144 radio-widget.php:173
+msgid "MediaPlayer Icon"
+msgstr "أيقونة ميديا بلاير"
+
+#: radio-admin.php:145 radio-widget.php:180
+msgid "QuickTime Icon"
+msgstr "أيقونة كويك تايم"
+
+#: radio-admin.php:146 radio-widget.php:187
+msgid "Realplayer Icon"
+msgstr "أيقونة ريل بلاير"
+
+#: radio-admin.php:147 radio-widget.php:194
+msgid "Winamp Icon"
+msgstr "أيقونة ون آمب"
+
+#: radio-admin.php:148 radio-widget.php:201
+msgid "Tunein Icon"
+msgstr "أيقونة تون إن"
+
+#: radio-admin.php:149 radio-widget.php:208
+msgid "Soundcloud Icon"
+msgstr "أيقونة سوند كلاود"
+
+#: radio-admin.php:150 radio-widget.php:215
+msgid "Twitter Icon"
+msgstr "أيقونة تويتر"
+
+#: radio-admin.php:151 radio-widget.php:222
+msgid "Facebook Icon"
+msgstr "أيقونة فيسبوك"
+
+#: radio-admin.php:152
+msgid "Android Icon"
+msgstr "أيقونة أندرويد"
+
+#: radio-admin.php:153
+msgid "Hidden Player"
+msgstr "إخفاء المشغل"
+
+#: radio-admin.php:156
+msgid "Update options"
+msgstr "تحديث الإعدادات"
+
+#: radio-hook.php:67 radio-widget.php:7 radio-widget.php:90
+msgid "Quran Radio"
+msgstr "إذاعات القرآن الكريم"
+
+#: radio-list.php:1485
+msgid "Not Found"
+msgstr "لا يوجد راديو"
+
+#: radio-list.php:1499 radio-list.php:1571
+msgid "Copy this code"
+msgstr "انسخ هذا الكود"
+
+#: radio-list.php:1499 radio-list.php:1571
+msgid "and past in post or page"
+msgstr "وألصفه في الموضوع أو الصفحة"
+
+#: radio-widget.php:8
+msgid "You can play 1 out of 40 translations of the Quran"
+msgstr "بإمكانك الإختيار من أكثر من 40 لغة"
+
+#: radio-widget.php:110
+msgid "Title:"
+msgstr "العنوان:"
+
+#: radio-widget.php:121
+msgid "Languages"
+msgstr "اللغات"
+
+#: radio-widget.php:131
+msgid "Player"
+msgstr "المشغل"
+
+#: radio-widget.php:152
+msgid "Book Icon"
+msgstr "الكتاب"
+
+#: radio-widget.php:229
+msgid "Show title"
+msgstr "مشاهدة العنوان"
+
+#. Plugin Name of the plugin/theme
+msgid "The Quran Radio"
+msgstr "إذاعات القرآن الكريم"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.islam.com.kw"
+msgstr "http://www.islam.com.kw"
+
+#. Description of the plugin/theme
+msgid ""
+"Quran Radio is the first WordPress plugin that allows you to add the "
+"translations of the Quran in 40 languages on posts, pages or widgets."
+msgstr ""
+"إضافة إذاعات القرآن الكريم تعتبر الأولى في الووردس بحيث تمكنك من الإستماع "
+"لترجمات معاني القرآن الكريم في أكثر من 40 لغة"
+
+#. Author of the plugin/theme
+msgid "EDC Team (E-Da`wah Committee)"
+msgstr "فريق التطوير في لجنة الدعوة الإلكترونية"
+
+#. Author URI of the plugin/theme
+msgid "http://www.islam.com.kw/DawahApps/"
+msgstr "http://www.islam.com.kw/DawahApps/"
+
+#~ msgid "Player width"
+#~ msgstr "عرض المشغل"
+
+#~ msgid "Player height"
+#~ msgstr "طول المشغل"
+
+#~ msgid "Autostart"
+#~ msgstr "التشغيل التلقائي"
+
+#~ msgid "Source"
+#~ msgstr "المصدر"
+
+#~ msgid "PDF Book"
+#~ msgstr "الكتاب"
+
+#~ msgid "Podcast"
+#~ msgstr "البودكاست"
+
+#~ msgid "Download"
+#~ msgstr "التحميل"
+
+#~ msgid "MediaPlayer"
+#~ msgstr "ميمديا بلاير"
+
+#~ msgid "QuickTime"
+#~ msgstr "كوك تايم"
+
+#~ msgid "Realplayer"
+#~ msgstr "ريال بلاير"
+
+#~ msgid "Winamp"
+#~ msgstr "وين آمب"
+
+#~ msgid "Tunein"
+#~ msgstr "تون إن"
+
+#~ msgid "Android"
+#~ msgstr "أندرويد"
+
+#~ msgid "Full Screen"
+#~ msgstr "الشاشة الكاملة"
+
+#~ msgid "Width:"
+#~ msgstr "العرض:"
+
+#~ msgid "Height:"
+#~ msgstr "الطول:"
